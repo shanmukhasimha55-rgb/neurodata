@@ -1,0 +1,59 @@
+{
+  "_type": "Project",
+  "_id": "AAAAAAFF+h6SjaM2Hec=",
+  "name": "NeuroData_DataModel",
+  "ownedElements": [
+    {
+      "_type": "ERDPackage",
+      "_id": "AAAAAAFF+REB19544nM=",
+      "_parent": {
+        "$ref": "AAAAAAFF+h6SjaM2Hec="
+      },
+      "name": "Data Model",
+      "ownedElements": [
+        {
+          "_type": "ERDDataModel",
+          "_id": "AAAAAAGX1234567890A=",
+          "name": "NeuroData ERD",
+          "ownedElements": [
+            {
+              "_type": "ERDEntity",
+              "_id": "E_DATASETS",
+              "name": "DATASETS"
+            },
+            {
+              "_type": "ERDEntity",
+              "_id": "E_PIPELINES",
+              "name": "PIPELINES"
+            },
+            {
+              "_type": "ERDEntity",
+              "_id": "E_PIPELINE_RUNS",
+              "name": "PIPELINE_RUNS"
+            },
+            {
+              "_type": "ERDEntity",
+              "_id": "E_QUALITY_RULES",
+              "name": "QUALITY_RULES"
+            },
+            {
+              "_type": "ERDEntity",
+              "_id": "E_RULE_VALIDATIONS",
+              "name": "RULE_VALIDATIONS"
+            },
+            {
+              "_type": "ERDEntity",
+              "_id": "E_ANOMALY_ALERTS",
+              "name": "ANOMALY_ALERTS"
+            },
+            {
+              "_type": "ERDEntity",
+              "_id": "E_PIPELINE_LOGS",
+              "name": "PIPELINE_LOGS"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
