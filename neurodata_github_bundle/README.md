@@ -13,9 +13,8 @@ NeuroData tracks ETL data pipeline execution, enforces statistical data assertio
 
 ## 👥 Team Members
 
-* **24BYB0105** — SYED AMANGANI  
-* **24BDE0007** — JASWANTH REDDY  
-* **24BYB0144** — SHANMUKHA SRIKAR  
+* k.shanmukha simha(24BDE0123)
+* SAI RAGHAVENDRA (24BYB0188)
 
 **Course:** Database Management Systems Laboratory  
 **Domain:** Data Engineering & AI Operations (MLOps / DataOps)
